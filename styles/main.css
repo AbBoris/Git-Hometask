@@ -44,6 +44,7 @@ article {
 }
 
 article h2 {
+	font-family: 'PT Sans', Arial, sans-serif;
 	padding-top: 1.5em;
 	text-align: center;
 	color: #777;
